@@ -10,7 +10,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/markosejat/configure-ad)
   - [Building Intuition for DNS](https://github.com/markosejat/DNS-Intuition)
-  - [File Shares](https://github.com/markosejat/FileShares)
+  - [File Shares & Security Groups](https://github.com/markosejat/FileShares)
 
 <h2>🤳Connect with me:</h2>
 
